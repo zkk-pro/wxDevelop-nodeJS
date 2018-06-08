@@ -1,0 +1,9 @@
+{
+  "token": "mynsy",
+  "appID": "wx83a7a8ae5ea1084b",
+  "appScrect": "4e990864dd9315b90f5c9a8b73ac3a23",
+  "apiDomain": "https://api.weixin.qq.com/",
+  "apiURL": {
+    "accessTokenApi": "%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s"
+  }
+}
